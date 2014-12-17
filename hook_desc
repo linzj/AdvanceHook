@@ -1,0 +1,9 @@
+{
+    "functions": [
+        {
+            "mangled_function_name_to_hook" : "_ZN5Hello9callHelloEv",
+            "mangled_function_name_to_listen": "_Z6nimabiPFvP5HelloES0_",
+            "parameters" : 1,
+        },
+    ],
+}
